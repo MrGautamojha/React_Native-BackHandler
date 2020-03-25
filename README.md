@@ -4,4 +4,4 @@ custom Backhandler for android
 import BacKHandler from react-native.
 install:-
 
-react-native-root-toast 
+npm i react-native-root-toast --save
